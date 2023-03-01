@@ -1,5 +1,5 @@
-sub=(a,b)=>{
-    return a-b
+divide=(a,b)=>{
+    return a/b
 }
-x=sub(3,4)
+x=divide(3,4)
 console.log(x)
